@@ -1,4 +1,3 @@
-# linkedin-job-alerts-zapier
 LinkedIn Job Alerts Automation using Zapier
 ===========================================
 Overview
