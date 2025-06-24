@@ -55,9 +55,11 @@ Date: {{PubDate}}
 Step 4: Test and Turn On Zap
 - Run a test to confirm message delivery.
 - Enable the Zap to start monitoring.
-Screenshots
------------
-(Include screenshots of Zapier setup: trigger configuration, action setup, and sample output.)
+
+![image](https://github.com/user-attachments/assets/0e810932-c58b-47f7-ab61-4d3a5a379ec5)
+
+
+  
 License
 -------
 MIT License
