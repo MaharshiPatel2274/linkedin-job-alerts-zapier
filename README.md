@@ -34,6 +34,8 @@ Step 2: Configure Trigger
 - Event: New Item in Feed
 - Feed URL: https://rss.app/feeds/9cYxPxOUDZiCkSuO.xml
 - Test the trigger to confirm Zapier can detect new items.
+  ![image](https://github.com/user-attachments/assets/da7ac92e-e2d2-488b-9b56-1a9aaff893aa)
+
 Step 3: Configure Action
 Option A: Slack
 - Choose App: Slack
